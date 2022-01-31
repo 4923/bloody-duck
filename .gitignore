@@ -1,5 +1,6 @@
 # To protect PERSONAL INFO - Ignore data/ dir (includes KakaoTalkChats.txt)
 data/
+preprocessing/
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
